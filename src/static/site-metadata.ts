@@ -11,19 +11,19 @@ interface ISiteMetadataResult {
 }
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Workouts Map',
-  siteUrl: 'https://ben29.xyz',
-  logo: 'https://avatars3.githubusercontent.com/u/6956444?s=460&u=97e1062227c4088db3c987146455245c6fa78441',
+  siteTitle: '马老大的运动记录',
+  siteUrl: 'https://www.strava.com/athletes/bossma',
+  logo: 'https://dgalywyr863hv.cloudfront.net/pictures/athletes/136766871/31118839/1/large.jpg',
   description: 'Personal site and blog',
   keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
   navLinks: [
     {
-      name: 'Blog',
-      url: 'https://ben29.xyz',
+      name: 'MikeMa',
+      url: 'https://mikema.vercel.app/',
     },
     {
-      name: 'About',
-      url: 'https://github.com/ben-29/workouts_page/blob/master/README-CN.md',
+      name: 'Strava',
+      url: 'https://www.strava.com/athletes/bossma',
     },
   ],
 };
