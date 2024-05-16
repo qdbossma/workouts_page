@@ -3823,5 +3823,50 @@
 "average_speed": 1.2187219305990304,
 "source": "Garmin Connect",
 "streak": 7
+},
+{
+"run_id": 1715637190000,
+"name": "\u9752\u5c9b\u5e02 \u6b65\u884c",
+"distance": 3071.5876004677725,
+"moving_time": "0:42:04",
+"type": "Hike",
+"start_date": "2024-05-13 21:53:10",
+"start_date_local": "2024-05-14 05:53:10",
+"location_country": "\u57ce\u9633\u533a, \u9752\u5c9b\u5e02, \u5c71\u4e1c\u7701, 266041, \u4e2d\u56fd",
+"summary_polyline": "ciu|Euo_~U^sAhDFJqOv@y@^wCt@GZmA`@Ig@sCAk@b@@Gq@z@DjA`CjCzBtAHlAq@jFnA|@_@d@oAQsByBiDn@cAEa@oA@aAv@lBj@~BbEMpC_B~@gEsAaBn@cBK{BsBaDeFjBnCMTYo@IXy@MFvB^B@hA[FWhAcA^iAvEGbNkCFM\\",
+"average_heartrate": 82.0,
+"average_speed": 1.216952298125108,
+"source": "Garmin Connect",
+"streak": 8
+},
+{
+"run_id": 1715727217000,
+"name": "\u9752\u5c9b\u5e02 \u6b65\u884c",
+"distance": 3230.164896645473,
+"moving_time": "0:39:44",
+"type": "Hike",
+"start_date": "2024-05-14 22:53:37",
+"start_date_local": "2024-05-15 06:53:37",
+"location_country": "\u57ce\u9633\u533a, \u9752\u5c9b\u5e02, \u5c71\u4e1c\u7701, 266041, \u4e2d\u56fd",
+"summary_polyline": "qdu|Esp_~UFb@Uu@eBTIs@nDILbEx@NpLJ~Bl@fGe@zH|@|Aa@_B{SgBkNkA`CYHIm@m@j@`@qBKuAuB_EwDi@iBgBqG_C_EJQd@bChHJx@e@CAp@l@hC}@zA{@N_@`ABvAq@PExOiAd@iAM]jA_@s@",
+"average_heartrate": 83.0,
+"average_speed": 1.3549349398680677,
+"source": "Garmin Connect",
+"streak": 9
+},
+{
+"run_id": 1715808416000,
+"name": "\u9752\u5c9b\u5e02 \u6b65\u884c",
+"distance": 4208.383021266257,
+"moving_time": "0:54:33",
+"type": "Hike",
+"start_date": "2024-05-15 21:26:56",
+"start_date_local": "2024-05-16 05:26:56",
+"location_country": "\u57ce\u9633\u533a, \u9752\u5c9b\u5e02, \u5c71\u4e1c\u7701, 266041, \u4e2d\u56fd",
+"summary_polyline": "ohu|Ean_~Ub@_ArCc@DgPt@_AEsAb@aAt@K`@mA\\Eg@wD`AgAgCqEMwB|CYzCd@jD~AzA~AvDp@hBfDT~A[~AcA`@iA?kDoAiAn@mBQaG{HmBcEBwApDW~Cl@lGdExBLfAkAsAI}@f@gEcE}A[I_A_CSDe@a@@Z{@wEGv@^`@lAoAj@Hb@i@a@WT@jBbBfC|@|DkBhAb@r@A~@}@dD@nAw@`@A~O_BN",
+"average_heartrate": 80.0,
+"average_speed": 1.285787663081655,
+"source": "Garmin Connect",
+"streak": 10
 }
 ]
